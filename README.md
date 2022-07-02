@@ -10,7 +10,7 @@ Hello, my name is Jiminjae. I am studying hard to become a developer.
 
 <a href="https://www.instagram.com/ji_minjae">
     <img 
-        src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&link=https://www.instagram.com/ji_minjae"
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/ji_minjae"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>	
 	
