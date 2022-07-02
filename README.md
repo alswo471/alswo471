@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/alswo471">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswo471&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=nord&hide=none" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswo471&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=default&hide=none" />
   </a>
   
 </p>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/$alswo471">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alswo471&hide=&hide_title=&show_icons=true&include_all_commits=&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alswo471&hide=&hide_title=&show_icons=true&include_all_commits=&theme=default" />
   </a>
   
 </p>
