@@ -1,8 +1,11 @@
-Hello, my name is Jiminjae. I am studying hard to become a developer.
 
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+ </div>
+ 
+**#Hello, my name is Jiminjae. I am studying hard to become a developer.**
 
 <a href="alswo472@gmail.com">
     <img 
@@ -24,7 +27,7 @@ Hello, my name is Jiminjae. I am studying hard to become a developer.
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alswo471.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-  </div>
+
 
   
 
