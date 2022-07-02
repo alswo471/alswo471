@@ -7,6 +7,16 @@ Hello, my name is Jiminjae. I am studying hard to become a developer.
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 </br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-#ff69bs?style=flat&logo=Instagram&link=[https://instagram.com/alpox.dev/](https://www.instagram.com/ji_minjae/)"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=[https://alpox.kr](https://alswo471.tistory.com/)"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   </div>
   
 
