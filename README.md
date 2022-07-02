@@ -1,8 +1,8 @@
 Hello, my name is Jiminjae. I am studying hard to become a developer.
 
- <div align=center>
+<div align=center>
 	
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 
@@ -14,6 +14,7 @@ Hello, my name is Jiminjae. I am studying hard to become a developer.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 	
+<br>
 <br>
 	
 <a href="https://alpox.kr">
