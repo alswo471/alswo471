@@ -5,7 +5,7 @@
 	
  </div>
  
-**#Hello, my name is Jiminjae. I am studying hard to become a developer.**
+:kr:**#Hello, my name is Jiminjae. I am studying hard to become a developer.**:kr:
 
 <a href="alswo472@gmail.com">
     <img 
