@@ -9,7 +9,7 @@ Hello, my name is Jiminjae. I am studying hard to become a developer.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 <a href="https://instagram.com/alpox.dev">
     <img 
-        src="http://img.shields.io/badge/-Instagram-#ff69b4?style=flat&logo=Instagram&link=[https://instagram.com/alpox.dev/](https://www.instagram.com/ji_minjae/)"
+        src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&link=[https://instagram.com/alpox.dev/](https://www.instagram.com/ji_minjae/)"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://alpox.kr">
