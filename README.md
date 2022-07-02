@@ -1,31 +1,36 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=666666&height=200&section=header&text=JIMINJAE%20&fontSize=50&fontColor=FFFFFF&animation=scaleIn&)
+![header](https://capsule-render.vercel.app/api?type=slice&color=dda0dd&height=200&section=header&text=JIMINJAE%20&fontSize=50&fontColor=000000&animation=scaleIn&)
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
+ 
+**Hello,**
+  
+  **I am Jimin-jae living in Korea. My life philosophy is to have a goal, and to achieve that goal,**
+  
+  **I believe that success can only be achieved by consistently maintaining a regular lifestyle, persevering and overcoming it.***
 
-<p align="center">
+    
+<p align="left">
+  
+  <h3>💡 My Most Used Languages 💡</h3>
+  
   <a href="https://github.com/alswo471">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswo471&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=default&hide=none" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswo471&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=buefy&hide=none" />
   </a>
   
 </p>
+ 
 
-<h3 align="center">💡 My Git Stats 💡</h3>
-
-<p align="center">
+<p align="left">
+  
+  <h3>💡 My Git Stats 💡</h3>
+  
   <a href="https://github.com/$alswo471">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alswo471&hide=&hide_title=&show_icons=true&include_all_commits=&theme=default" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alswo471&hide=&hide_title=&show_icons=true&include_all_commits=&theme=buefy" />
   </a>
   
 </p>
 
-
-<p>
-
-***Hello, my name is Jiminjae. I am studying hard to become a developer.*** 
-
-</p>	
 
 <p>
 
