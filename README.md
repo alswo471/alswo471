@@ -35,14 +35,17 @@
 
  
  
-  <h3>💡 My Most Used Languages  ------------------------------------- My Git Stats 💡</h3>
+  <h3>  💡My Git Stats && My Most Used Languages💡</h3>
+  
+  <br>
+ </br>
   
   <a href="https://github.com/$alswo471">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alswo471&hide=&hide_title=&show_icons=true&include_all_commits=&theme=buefy" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alswo471&hide=&hide_title=&show_icons=true&include_all_commits=&theme=buefy" />
   </a>
   
   <a href="https://github.com/alswo471">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswo471&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=buefy&hide=none" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswo471&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=buefy&hide=none" />
   </a>
   
   
