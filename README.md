@@ -1,40 +1,60 @@
-<div align=center>
+<div>
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=dda0dd&height=200&section=header&text=JIMINJAE%20&fontSize=50&fontColor=000000&animation=scaleIn&)
 
+ <br>
+ </br>
+  <br>
+ </br>
  
-**Hello,**
+**:hand::hand: Hello,**
   
-  **I am Jimin-jae living in Korea. My life philosophy is to have a goal, and to achieve that goal,**
-  
-  **I believe that success can only be achieved by consistently maintaining a regular lifestyle, persevering and overcoming it.***
+● 🔭 I am currently studying web development.
 
-    
-<p align="left">
-  
-  <h3>💡 My Most Used Languages 💡</h3>
-  
-  <a href="https://github.com/alswo471">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswo471&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=buefy&hide=none" />
-  </a>
-  
-</p>
+● 🌱I am currently studying Java - JavaScript , HTML-CSS 
+
+● 👯 Please share web-related information through Instagram DM.
+
+● 🤔 I'm looking for help with JavaScript :-)
+
+● ⚡My hobby is fitness. We will answer your questions about health with sincerity.
+
+ <br>
+ </br>
+
+:book: ***Studying*** :book:
+
+<img src="https://img.shields.io/badge/Java-5F9EA0?style=flat-square&logo=Java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/JavaScript-FFCD28?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C-bebebe?style=flat-square&logo=C&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Arduino-32BEBE?style=flat-square&logo=Arduino&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/HTML5-CSS-CD1039?style=flat-square&logo=HTML5&logoColor=white"/></a> 
+
+<br>
+ </br>
+
  
-
-<p align="left">
-  
-  <h3>💡 My Git Stats 💡</h3>
+ 
+  <h3>💡 My Most Used Languages  ------------------------------------- My Git Stats 💡</h3>
   
   <a href="https://github.com/$alswo471">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alswo471&hide=&hide_title=&show_icons=true&include_all_commits=&theme=buefy" />
   </a>
   
-</p>
+  <a href="https://github.com/alswo471">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswo471&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=buefy&hide=none" />
+  </a>
+  
+  
+  
+  
+  
+<br>
+ </br>
+  <br>
+ </br>
 
-
-<p>
-
-:speech_balloon: ***SNS*** :speech_balloon:
+:speech_balloon: ***Connect with me 😃*** :speech_balloon:
 
 <a href="alswo472@gmail.com">
     <img 
@@ -60,19 +80,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-</p>
 
-<p>
 
-:book: ***Studying*** :book:
 
-<img src="https://img.shields.io/badge/Java-5F9EA0?style=flat-square&logo=Java&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/JavaScript-FFCD28?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C-bebebe?style=flat-square&logo=C&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Arduino-32BEBE?style=flat-square&logo=Arduino&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/HTML5-CSS-CD1039?style=flat-square&logo=HTML5&logoColor=white"/></a> 
-
-</p>
 
  </div>
 
