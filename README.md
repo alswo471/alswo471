@@ -24,7 +24,8 @@
 
 :book: ***Studying*** :book:
 
-<img src="https://img.shields.io/badge/Java-5F9EA0?style=flat-square&logo=Java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-FFCD28?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-bebebe?style=flat-square&logo=C&logoColor=white"/></a> 
  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
