@@ -15,7 +15,7 @@
 
 ● 👯 Please share web-related information through Instagram DM.
 
-● 🤔 I'm looking for help with JavaScript :-)
+● 🤔 I'm looking for help with Jpa :-)
 
 ● ⚡My hobby is fitness. We will answer your questions about health with sincerity.
 
