@@ -71,18 +71,6 @@
         style="height : auto; margin-left : 20px; margin-right : 10px;"/>
 </a>	
 
-<a href="https://www.facebook.com/profile.php?id=100014246593971">
-    <img 
-        src="http://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100014246593971"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>	
-
-<a href="https://www.instagram.com/ji_minjae">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/ji_minjae"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>	
-
 <a href="https://alswo471.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alswo471.tistory.com"
