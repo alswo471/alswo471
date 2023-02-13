@@ -11,7 +11,7 @@
   
 ● 🔭 I am currently studying web development.
 
-● 🌱I am currently studying Java - JavaScript , HTML-CSS 
+● 🌱I am currently studying Springboot/Jpa 
 
 ● 👯 Please share web-related information through Instagram DM.
 
