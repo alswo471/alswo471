@@ -8,16 +8,7 @@
  </br>
  
 **:hand::hand: Hello,**
-  
-● 🔭 I am currently studying web development.
-
-● 🌱I am currently studying Springboot/Jpa 
-
-● 👯 Please share web-related information through Instagram DM.
-
-● 🤔 I'm looking for help with Jpa :-)
-
-● ⚡My hobby is fitness. We will answer your questions about health with sincerity.
+ 
 
  <br>
  </br>
